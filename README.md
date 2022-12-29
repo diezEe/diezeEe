@@ -19,11 +19,6 @@
 
 
 
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" title="C" alt="C" width="40" height="40"/>&nbsp;
-  height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
 
 
 
